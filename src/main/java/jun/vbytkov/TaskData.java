@@ -1,4 +1,4 @@
-package jun.vbytkov.adapter;
+package jun.vbytkov;
 
 import java.util.UUID;
 

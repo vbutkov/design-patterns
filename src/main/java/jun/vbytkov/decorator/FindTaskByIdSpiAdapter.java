@@ -1,4 +1,4 @@
-package jun.vbytkov.adapter;
+package jun.vbytkov.decorator;
 
 import jun.vbytkov.TaskData;
 import org.springframework.jdbc.core.RowMapper;

@@ -1,5 +1,6 @@
 package jun.vbytkov.adapter;
 
+import jun.vbytkov.TaskData;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
